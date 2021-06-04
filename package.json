@@ -1,5 +1,5 @@
 {
-  "name": "Team-Profile-Generator",
+  "name": "team-profile-generator",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -10,7 +10,6 @@
     "type": "git",
     "url": "git+https://github.com/DavRDub/Team-Profile-Generator.git"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
